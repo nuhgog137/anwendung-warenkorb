@@ -1,2 +1,4 @@
 out/
 .claude/settings.local.json
+auto-push.ps1
+auto-push.log

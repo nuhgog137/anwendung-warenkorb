@@ -1,0 +1,4 @@
+Die Datei mariadb-java-client-3.5.9.jar in diesen Ordner legen.
+Du hast sie bereits - einfach aus dem alten Projekt kopieren:
+
+cp ~/Downloads/projekt/lib/mariadb-java-client-3.5.9.jar ~/Downloads/bestellsystem/lib/
